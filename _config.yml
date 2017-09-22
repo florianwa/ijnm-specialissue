@@ -1,2 +1,3 @@
 name: Special Issue of the International Journal on Network Management (IJNM) on \"QoE-related Analysis and Management of Data Communications Networks\"
 exclude: ["node_modules", "gulpfile.js", "package.json"]
+baseurl: '/ijnm-specialissue'
