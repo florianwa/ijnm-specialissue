@@ -1,6 +1,7 @@
 _site
 .idea
 node_modules
+_config.yml
 
 # Created by https://www.gitignore.io
 
