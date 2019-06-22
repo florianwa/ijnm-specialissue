@@ -12,9 +12,10 @@
     "browser-sync": "^2.11.0",
     "gulp": "^3.9.0",
     "gulp-autoprefixer": "^3.1.0",
-    "gulp-jade": "^1.1.0",
+    "gulp-pug": ">=4.0.1",
     "gulp-sass": "^2.1.1",
-    "clean-css": ">=4.1.11"
+    "clean-css": ">=4.1.11",
+    "constantinople": ">=3.1.1"
   },
   "repository": {
     "type": "git",
@@ -31,6 +32,7 @@
   },
   "homepage": "https://github.com/bawn92/bawn92.git",
   "dependencies": {
+    "gulp-pug": "^4.0.1",
     "natives": "^1.1.6",
     "node-sass": "^4.12.0"
   }
