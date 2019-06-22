@@ -28,5 +28,9 @@
   "bugs": {
     "url": "https://github.com/bawn92/bawn92.git"
   },
-  "homepage": "https://github.com/bawn92/bawn92.git"
+  "homepage": "https://github.com/bawn92/bawn92.git",
+  "dependencies": {
+    "natives": "^1.1.6",
+    "node-sass": "^4.12.0"
+  }
 }
