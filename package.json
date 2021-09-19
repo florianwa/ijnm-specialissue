@@ -9,14 +9,14 @@
   "author": "Shane Osbourne",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.11.0",
-    "gulp": "^3.9.0",
-    "gulp-autoprefixer": "^3.1.0",
-    "gulp-pug": ">=4.0.1",
-    "gulp-sass": "^2.1.1",
-    "clean-css": ">=4.1.11",
-    "lodash": ">= 4.17.19",
-    "constantinople": ">=3.1.1"
+    "browser-sync": "^2.27.5",
+    "clean-css": ">=5.1.5",
+    "constantinople": ">=4.0.1",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-pug": ">=5.0.0",
+    "gulp-sass": "^5.0.0",
+    "lodash": ">=4.17.21"
   },
   "repository": {
     "type": "git",
@@ -33,8 +33,9 @@
   },
   "homepage": "https://github.com/bawn92/bawn92.git",
   "dependencies": {
-    "gulp-pug": "^4.0.1",
+    "gulp-pug": "^5.0.0",
     "natives": "^1.1.6",
-    "node-sass": "^4.13.1"
+    "node-sass": "^6.0.1",
+    "watchpack": ">=2.2.0"
   }
 }
