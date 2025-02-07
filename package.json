@@ -9,10 +9,10 @@
   "author": "Shane Osbourne",
   "license": "ISC",
   "devDependencies": {
-    "browser-sync": "^2.27.5",
+    "browser-sync": "^3.0.3",
     "clean-css": ">=5.1.5",
     "constantinople": ">=4.0.1",
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.0",
     "gulp-autoprefixer": "^8.0.0",
     "gulp-pug": ">=5.0.0",
     "gulp-sass": "^5.0.0",
@@ -36,7 +36,7 @@
   "dependencies": {
     "gulp-pug": "^5.0.0",
     "natives": "^1.1.6",
-    "node-sass": "^7.0.1",
+    "node-sass": "^9.0.0",
     "object-path": ">=0.11.8",
     "watchpack": ">=2.2.0"
   }
